@@ -1,0 +1,1 @@
+# Contains disease rules and symptom mappings
